@@ -1,0 +1,10 @@
+<svg width="360" height="256" viewBox="0 0 360 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.15" filter="url(#glow)">
+    <ellipse cx="75" cy="225" rx="125" ry="75" fill="#E12A2A"/>
+  </g>
+  <defs>
+    <filter id="glow" x="-170" y="30" width="490" height="390" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+</svg>

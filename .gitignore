@@ -1,0 +1,28 @@
+# Keep the custom theme; WordPress core, plugins and site data stay local.
+/*
+!/.gitignore
+!/wp-content/
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/veligroup/
+
+# Local configuration, dependencies and generated files.
+**/.DS_Store
+**/._*
+**/.vscode/
+**/.idea/
+**/node_modules/
+**/.cache/
+**/.env
+**/.env.*
+**/*.log
+**/*.sql
+**/*.sql.gz
+**/*.zip
+**/*.bak
+**/*.old
+**/*.tmp
+**/*~
+**/*.pem
+**/*.key
